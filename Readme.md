@@ -49,7 +49,7 @@ This makes debugging and monitoring easier during longor repeated runs
 - CSV file containing all scraped match data 
 - Analytincal charts (png)
 - pdf for chrats 
-- Google Sheet containing the final dataset 
+- Google Sheet containing the final dataset (https://docs.google.com/spreadsheets/d/17IH8ILWmOqWRBDKBNCJTQCQ9HEFx_oQGTkLla7qJ-Jw/edit?gid=0#gid=0)
 
 ## How to Run 
 
@@ -60,4 +60,5 @@ This makes debugging and monitoring easier during longor repeated runs
 
 3.Run the project:
     python project2.py
+
 
