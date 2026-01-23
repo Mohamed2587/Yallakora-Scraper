@@ -14,7 +14,9 @@ The goal of the project isto  demonstrate a complete data pipline :
 - uploads the final dataset to Google Sheets
 - Centralized logging system for monitoring and debugging  
 - Modular and reusable project structure 
-
+- supports command-line argument using argparse fore flexible execurion
+- Default to today's date when no dateis provided
+  
 ## Technologies Used 
 
 - python
@@ -60,5 +62,6 @@ This makes debugging and monitoring easier during longor repeated runs
 
 3.Run the project:
     python project2.py
+
 
 
