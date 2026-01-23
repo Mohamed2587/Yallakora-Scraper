@@ -5,4 +5,5 @@ matplotlip
 gspread
 google-auth
 arabic_shaper
-bidi
+python-bidi
+
